@@ -1,4 +1,4 @@
-DEEP LEARNING APPROACH FOR BLOOD GROUP IDENTIFICATION USING FINGERPRINTS
+                                                                 DEEP LEARNING APPROACH FOR BLOOD GROUP IDENTIFICATION USING FINGERPRINTS
 
 This project introduces an AI-driven solution for non-invasive blood group detection using fingerprint images. By leveraging deep learning and machine learning techniques, it aims to eliminate the need for traditional blood sampling. The application utilizes ResNet101 for robust feature extraction from fingerprint images, followed by classification using an optimized XGBoost model. The system is deployed via a web interface built with Flask, allowing users to easily upload fingerprint scans and receive real-time blood group predictions.
 
